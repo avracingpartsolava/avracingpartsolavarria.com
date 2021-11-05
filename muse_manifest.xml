@@ -1,0 +1,180 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.avracingpartsolavarria.com" resolutions="1x" timestamp="1636120276673">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="168649306" ref="catalogo:index:contacto:quienes-somos"/>
+    <file name="catalogo.css" crc="98105670" ref="catalogo"/>
+    <file name="index.css" crc="3821687957" ref="index"/>
+    <file name="iefonts_index.css" crc="4213344373" ref="index"/>
+    <file name="contacto.css" crc="357547418" ref="contacto"/>
+    <file name="quienes-somos.css" crc="511055510" ref="quienes-somos"/>
+    <file name="iefonts_quienes-somos.css" crc="12559730" ref="quienes-somos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:catalogo:quienes-somos:contacto"/>
+    <file name="museutils.js" crc="3939489907" ref="index:catalogo:quienes-somos:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:catalogo:quienes-somos:contacto"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:catalogo:quienes-somos:contacto"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:catalogo:quienes-somos:contacto"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:catalogo:quienes-somos:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index:contacto"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u518.php" crc="4279341826" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:catalogo:quienes-somos:contacto"/>
+    <file name="require.js" crc="4177726516" ref="index:catalogo:quienes-somos:contacto"/>
+    <file name="form-u1453.php" crc="3802371421" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="inicio-favicon.ico" crc="457949988" ref="index"/>
+    <file name="portada principal-u726-fr.png" crc="220612303" ref="index"/>
+    <file name="logo lo.png" crc="3767095065" seo="true" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="wha.png" crc="4201115796" seo="true" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="correo email.png" crc="93701170" seo="true" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="inst.png" crc="3809663337" seo="true" ref="index:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="u14697-7.png" crc="4190580653" ref="index"/>
+    <file name="u14701-4.png" crc="3761147509" ref="index"/>
+    <file name="u717-5.png" crc="252569436" ref="index"/>
+    <file name="istockphoto-1187652034-170667a.jpg" crc="4183848594" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="istockphoto-1187652034-170667a-u697-r-fr.png" crc="4227135572" ref="index"/>
+    <file name="faja5.png" crc="3849087173" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faja5-u710-r-fr.png" crc="4110031710" ref="index"/>
+    <file name="benedettiseriesc3f9.jpg" crc="3942984234" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u632-4.png" crc="522192342" ref="index"/>
+    <file name="holley.jpg" crc="3886264829" seo="true" ref="index:quienes-somos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="holley-u647-r-fr.png" crc="4145328151" ref="index"/>
+    <file name="aero motive.png" crc="3786044959" seo="true" ref="index:quienes-somos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="denso-u637-fr.png" crc="283941331" ref="index"/>
+    <file name="denso-u637-r-fr.png" crc="362511187" ref="index"/>
+    <file name="ngk bujias-crop-u7191.jpg" crc="425673921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="autometerlogo (2).jpg" crc="59852887" seo="true" ref="index:quienes-somos:catalogo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+      <caption webpage="catalogo" alt=""/>
+    </file>
+    <file name="autometerlogo (2)-u661-r-fr.png" crc="4059385392" ref="index"/>
+    <file name="tar.jpg" crc="247423653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fer.jpg" crc="3801562270" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fer-u652-r-fr.png" crc="4194115414" ref="index"/>
+    <file name="r (1).jpg" crc="4230709842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="battinif6ros1.jpg" crc="4088316080" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u517-4.png" crc="496083781" ref="index"/>
+    <file name="u14704-7.png" crc="4190580653" ref="catalogo"/>
+    <file name="u14707-4.png" crc="3761147509" ref="catalogo"/>
+    <file name="r.jpg" crc="128847430" seo="true" ref="catalogo">
+      <caption webpage="catalogo" alt=""/>
+    </file>
+    <file name="u14713-4.png" crc="388921347" ref="catalogo"/>
+    <file name="u1421-4.png" crc="4224347438" ref="catalogo"/>
+    <file name="u14740-4.png" crc="388921347" ref="catalogo"/>
+    <file name="captura web_1-11-2021_151324_wwwlongacreracingcom.jpg" crc="273713388" seo="true" ref="catalogo">
+      <caption webpage="catalogo" alt=""/>
+    </file>
+    <file name="captura web_1-11-2021_151236_wwwlongacreracingcom.jpg" crc="3882493588" seo="true" ref="catalogo">
+      <caption webpage="catalogo" alt=""/>
+    </file>
+    <file name="u14762-4.png" crc="3761147509" ref="quienes-somos"/>
+    <file name="u14765-7.png" crc="4190580653" ref="quienes-somos"/>
+    <file name="faja 1-crop-u1361.jpg" crc="290801777" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="u1408-4.png" crc="4117665016" ref="quienes-somos"/>
+    <file name="55807.jpg" crc="17574176" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="oip (1).jpg" crc="3778568611" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="logo.jpg" crc="3789675999" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="r (1).png" crc="184355954" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="denso172x66.png" crc="3896074205" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="ngk bujias.jpg" crc="4044946498" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="msd ignition.jpg" crc="296273317" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="phantom850.jpg" crc="199147513" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="american-muscle850.jpg" crc="492864759" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="u14756-7.png" crc="4190580653" ref="contacto"/>
+    <file name="u14759-4.png" crc="3761147509" ref="contacto"/>
+    <file name="battinif6ros1-crop-u1424.jpg" crc="455218282" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="u1450-4.png" crc="97918734" ref="contacto"/>
+    <file name="u1742-4.png" crc="4166091963" ref="index"/>
+    <file name="u1673-4.png" crc="182822463" ref="index"/>
+    <file name="u1686-4.png" crc="3927616557" ref="index"/>
+    <file name="u1699-4.png" crc="170364132" ref="index"/>
+    <file name="r.png" crc="224923516" seo="true" ref="catalogo">
+      <caption webpage="catalogo" alt=""/>
+    </file>
+    <file name="ahora-12-seeklogocom.svg" crc="3872653852" seo="true" ref="catalogo">
+      <caption webpage="catalogo" alt=""/>
+    </file>
+    <file name="ahora-12-seeklogocom_poster_.png" crc="364696602" ref="catalogo"/>
+    <file name="visa-logo-2.png" crc="4163987482" seo="true" ref="catalogo">
+      <caption webpage="catalogo" alt=""/>
+    </file>
+    <file name="u14673-4.png" crc="118864563" ref="contacto"/>
+    <file name="u14676-4.png" crc="310109530" ref="contacto"/>
+    <file name="u14679-4.png" crc="3839295444" ref="contacto"/>
+    <file name="u14682-4.png" crc="133142916" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="4056609527" seo="true" mt="1636114022097" redirect="true"/>
+  <file name="catalogo.html" crc="4256387038" seo="true" mt="1636113454084" redirect="true"/>
+  <file name="quienes-somos.html" crc="3874927315" seo="true" mt="1636113454084" redirect="true"/>
+  <file name="contacto.html" crc="4191788302" seo="true" mt="1636114292938" redirect="true"/>
+</manifest>
